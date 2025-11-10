@@ -1,0 +1,3 @@
+﻿"hTolerance"= .25
+"wThick"= 1.5
+"wTolerance"= .5
